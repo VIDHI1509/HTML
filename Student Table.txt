@@ -1,0 +1,132 @@
+#A table having student Information using HTML
+
+<!doctype html>
+<html>
+<head>
+	<title>STUDENTS TABLE</title>
+</head>
+<body>
+    <table border="5">
+	<tr>
+	     <th>Roll No.</th>
+	     <th>Name</th>
+	     <th>Course</th>
+	     <th>Gender</th>
+	</tr>
+	<tr>
+	     <td>1828001</td>
+	     <td>Aditya</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828002</td>
+	     <td>Ajeet</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828003</td>
+	     <td>Amrita</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828004</td>
+	     <td>Anuj</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828005</td>
+	     <td>Devansh</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828006</td>
+	     <td>Devanshu</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828007</td>
+	     <td>Kirti</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828008</td>
+	     <td>Mahesh</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828010</td>
+	     <td>Mohit</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828011</td>
+	     <td>Neha</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828012</td>
+	     <td>Pragya</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828013</td>
+	     <td>Sadhna</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828014</td>
+	     <td>Sakshee</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828015</td>
+	     <td>Shachi</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828016</td>
+	     <td>Shivum</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828017</td>
+	     <td>Shivani</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828018</td>
+	     <td>Shreya</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+	<tr>
+	     <td>1828019</td>
+	     <td>Shubh</td>
+	     <td>B.Sc. IT</td>
+	     <td>Male</td>
+	</tr>
+	<tr>
+	     <td>1828020</td>
+	     <td>Vidhi</td>
+	     <td>B.Sc. IT</td>
+	     <td>Female</td>
+	</tr>
+    </table>
+</body>
+</html>
